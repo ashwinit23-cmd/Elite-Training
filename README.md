@@ -2,10 +2,9 @@
 
 This repository documents my daily progress while learning **Java programming and problem solving**.
 
-## 👨‍💻 About Me
-Name: Ashwin  
+## 👨‍💻 About 
 Language: Java  
-Goal: Master **Data Structures, Algorithms, and Backend Development**
+
 
 ## 📚 Platforms Practiced
 - HackerRank
@@ -44,12 +43,6 @@ Goal: Master **Data Structures, Algorithms, and Backend Development**
 - Binary Search
 - Frequency Counting
 
-## 🎯 Future Topics
-- Recursion
-- Sorting Algorithms
-- Linked Lists
-- Stacks & Queues
-- Trees
-- Graph Algorithms
+
 
 
